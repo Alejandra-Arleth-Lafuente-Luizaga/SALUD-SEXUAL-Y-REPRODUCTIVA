@@ -1,2 +1,2 @@
-# STATA---IISEC
-Desarrollé un do-file en Stata para crear indicadores de salud sexual y reproductiva utilizando bases secundarias del Ministerio de Salud (SNIS), en lugar de depender de la base armonizada del INE. Incluye generación de gráficos desde cero .
+# Economista - Matemática - Investigadora
+Mi perfil combina investigación socioeconómica con un sólido dominio en matemáticas y estadística aplicada, enfocado en modelos macroeconómicos para analizar dinámicas complejas como crecimiento económico, desigualdad, políticas públicas y desarrollo sostenible. Trabajo con Python, R y econometría avanzada para desentrañar cómo variables estructurales y choques externos afectan las economías regionales, integrando análisis cuantitativos con perspectivas sociales y políticas. 
